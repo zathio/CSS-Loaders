@@ -2,4 +2,6 @@
 
 3 Differents loaders styles with only HTML, CSS and Javascript
 
-Click [here](https://css-loaders.zathio.now.sh/) for the live version
+![preview image](./images/preview.png "Click below for live version")
+
+Click [here](https://zathio.github.io/CSS-Loaders/) for the live version
